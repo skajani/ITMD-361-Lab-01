@@ -1,2 +1,2 @@
 # itmd361
-ITMD 361 Repo - Intro to Web Dev Fund
+This is a repo for ITMD 361 - Intro to Web Dev Fundementals.
